@@ -1,0 +1,9 @@
+c:\documents and settings\blackcrystal™\mis documentos\visual studio 2010\Projects\ServerClock\ServerClock\obj\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\blackcrystal™\mis documentos\visual studio 2010\Projects\ServerClock\ServerClock\bin\ServerClock.dll
+c:\documents and settings\blackcrystal™\mis documentos\visual studio 2010\Projects\ServerClock\ServerClock\bin\ServerClock.pdb
+c:\documents and settings\blackcrystal™\mis documentos\visual studio 2010\Projects\ServerClock\ServerClock\obj\Debug\ServerClock.dll
+c:\documents and settings\blackcrystal™\mis documentos\visual studio 2010\Projects\ServerClock\ServerClock\obj\Debug\ServerClock.pdb
+C:\Users\user\Documents\PROYECTOS\Visual Studio 2010 Projects\ServerClock\ServerClock\bin\ServerClock.dll
+C:\Users\user\Documents\PROYECTOS\Visual Studio 2010 Projects\ServerClock\ServerClock\bin\ServerClock.pdb
+C:\Users\user\Documents\PROYECTOS\Visual Studio 2010 Projects\ServerClock\ServerClock\obj\Debug\ServerClock.dll
+C:\Users\user\Documents\PROYECTOS\Visual Studio 2010 Projects\ServerClock\ServerClock\obj\Debug\ServerClock.pdb
